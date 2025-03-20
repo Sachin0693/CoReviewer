@@ -1,8 +1,22 @@
-# React + Vite
+# Code Reviewer Web App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Overview  
+The Code Reviewer Web App is a platform that helps developers review their code with the assistance of *Google’s Gemini AI API*. It provides *automated code analysis, feedback, and suggestions* to improve code quality.  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Features  
+✅ *VSCode Editor* – Interactive editor for writing and pasting code.  
+✅ *AI-Powered Review* – Uses *Gemini API* to analyze and suggest improvements.  
+✅ *Dark/Light Mode Toggle* – Enhances usability with theme switching.  
+✅ *Real-Time Feedback* – Instant suggestions on code structure and logic.  
+✅ *Performance Optimized* – Fast and efficient responses from the AI model.  
+
+
+# Tech Stack  
+- *Frontend:* HTML, CSS, JavaScript, React.js 
+- *Styling:* Tailwind CSS or Custom CSS  
+- *AI Integration:* Google Gemini API  
+- *Backend:* Node.js (Express.js)    
+
+
